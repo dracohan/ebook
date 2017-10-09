@@ -1,0 +1,180 @@
+[liteidex]
+version=1
+
+[App]
+About=
+AboutPlugins=
+Backward="Alt+Left; Alt+Q"
+CloseAllFiles=
+CloseAllFolders=
+CloseFile=Ctrl+W
+CloseProject=
+CloseWindow=Ctrl+Shift+W
+Escape=Esc
+Exit=Ctrl+Q
+Forward="Alt+Right; Alt+W"
+FullScreen=Ctrl+Shift+F11
+HideSideBar=Alt+0
+NewWindow=Ctrl+Shift+N
+OpenFolder=
+OpenFolderNewWindow=
+QuickOpen="Ctrl+P; Alt+Shift+G"
+QuickOpenEditor=Ctrl+Alt+P
+QuickOpenSymbol="Ctrl+Shift+O; Alt+G"
+SaveAllFiles=
+ToolWindow_HtmlPreview=Alt+4
+ToolWindow_OpenEditor=Ctrl+Alt+2
+ToolWindow_buildoutput=Alt+3
+ToolWindow_classview=Ctrl+Alt+3
+ToolWindow_debugoutput=Alt+5
+ToolWindow_eventlog=Alt+1
+ToolWindow_filesystem=Ctrl+Alt+6
+ToolWindow_folders=Ctrl+Alt+1
+ToolWindow_godoc\api=Alt+8
+ToolWindow_godoc\search=Alt+7
+ToolWindow_gopackbrowser=Ctrl+Alt+5
+ToolWindow_gosourcequery=Alt+6
+ToolWindow_outline=Ctrl+Alt+4
+ToolWindow_searchresult=Alt+2
+
+[Build]
+Bench=
+Build="Ctrl+B; F7"
+BuildAndRun="Ctrl+R; Ctrl+F7"
+Clean=
+CleanAll=Ctrl+F4
+ClearOutput=
+Config=
+Cover=
+Doc=
+ExecuteFile=Ctrl+`
+FileRun="Alt+Shift+R; Alt+F6"
+FileTest=Alt+T
+ForceBuild=Ctrl+Alt+B
+Get=
+Get%20Force%20Rebuilding=
+Get%20Update%20Network=
+GoFmt=
+GoFmtAll=
+GoGenerate=
+GoLint=
+GoToolVet=
+GoVet=
+Gopm%20Build=
+Install=Ctrl+F8
+Run=Ctrl+R
+RunTerm=Ctrl+Shift+F5
+Stop=
+Test=
+TestAll=Ctrl+Alt+T
+TestBench=
+TestBuild=
+TestCover=
+ToolCover=
+Update=
+
+[GolangEdit]
+FindUsages=Ctrl+Shift+U
+FindUsagesGOPATH=Ctrl+Alt+U
+JumpToDeclaration="F2; Alt+A"
+RenameSymbol=Ctrl+Shift+R
+RenameSymbolGOPATH=
+SourceQueryCallees=
+SourceQueryCallers=
+SourceQueryCallstack=
+SourceQueryDefinition=
+SourceQueryDescribe=
+SourceQueryFreevars=
+SourceQueryImplements=
+SourceQueryPeers=
+SourceQueryPointsto=
+SourceQueryReferrers=
+SourceQueryWhat=Ctrl+Shift+H
+SourceQueryWhicherrs=
+ViewGodoc=
+ViewInfo="Ctrl+Shift+I; F1"
+
+[Find]
+FileSearch=Ctrl+Shift+F
+
+[Document]
+DecreaseFontSize=Ctrl+-
+IncreaseFontSize="Ctrl++; Ctrl+="
+ResizeFontSize=Ctrl+0
+
+[Debug]
+Breakpoint=F9
+Continue=F5
+LiteDebug.StepOver="F10; Alt+C"
+RemoveAllBreakPoints=Shift+F9
+RunToLine="Ctrl+F10; Alt+Z"
+ShowLine=
+StartDebug="F5; Ctrl+D"
+StartDebugExternal=
+StartDebugTests=F6
+StepInfo="F11; Alt+X"
+StepOut="Shift+F11; Alt+Shift+X"
+StopDebug="Shift+F5; Ctrl+Alt+D"
+
+[GoPkg]
+SetupGOPATH=
+
+[Editor]
+AutoIndent=Ctrl+I
+BlockComment=Ctrl+Shift+/
+CleanWhitespace=
+CodeComplete=Ctrl+Space
+Comment=Ctrl+/
+CopyLine=Ctrl+Ins
+CopyLineDown=Ctrl+Shift+J
+CopyLineUp=Ctrl+Alt+Up
+CutLine=Shift+Del
+DecreaseFontSize=Ctrl+-
+DeleteLine=Ctrl+Shift+K
+Duplicate=Ctrl+Shift+D
+Fold=Ctrl+<
+FoldAll=
+GotoDocEnd=
+GotoDocStart=
+GotoLine=Ctrl+L
+GotoLineEnd=
+GotoLineStart=
+GotoMatchBrace=Ctrl+E
+GotoNextBlock=Ctrl+]
+GotoNextCharater=Alt+L
+GotoNextLine=Alt+J
+GotoNextWord=
+GotoPreviousBlock=Ctrl+[
+GotoPreviousCharacter=Alt+H
+GotoPreviousLine=Alt+K
+GotoPreviousWord=
+IncreaseFontSize="Ctrl++; Ctrl+="
+InsertLineAfter=Ctrl+Return
+InsertLineBefore=Ctrl+Shift+Return
+JoinLines=Ctrl+J
+LineEndingUnix=
+LineEndingWindow=
+LowerCase=
+MoveLineDown=Ctrl+Alt+J
+MoveLineUp=Ctrl+Alt+K
+Redo="Ctrl+Shift+Z; Ctrl+Y"
+ResetFontSize=Ctrl+0
+SelectBlock=Ctrl+U
+SwapCase=
+TabToSpaces=
+TitleCase=
+Unfold=Ctrl+>
+UnfoldAll=
+UpperCase=
+VisualizeWhitespace=
+WordWrap=
+
+[JsonEdit]
+CompactJson=
+FormatJson=Ctrl+I
+VerifyJson=
+
+[GoFmt]
+GoImports=Ctrl+Alt+I
+Gofmt=Ctrl+I
+Goplayfmt=Ctrl+I
